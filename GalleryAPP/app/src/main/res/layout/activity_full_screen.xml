@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FullScreen">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/previoursfabId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+
+        android:layout_marginStart="71dp"
+        android:layout_marginTop="638dp"
+        android:layout_marginEnd="293dp"
+        android:layout_marginBottom="45dp"
+        android:background="#9B11AA"
+        android:clickable="true"
+        android:elevation="25dp"
+        app:srcCompat="@drawable/pre" />
+
+    <ImageView
+        android:id="@+id/fullScreenView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/nextfabId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="289dp"
+        android:layout_marginTop="639dp"
+        android:layout_marginEnd="74dp"
+        android:layout_marginBottom="44dp"
+        android:background="#9B11AA"
+        android:clickable="true"
+        app:elevation="25dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/next" />
+
+</RelativeLayout>
