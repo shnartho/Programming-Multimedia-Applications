@@ -7,10 +7,10 @@ Some android application project on Android Studio using Java. 👨‍💻
 <h6>🔵 Next button shows next image with postion and path</h6>
 
 <div style="float:left">
-<img src="https://i.postimg.cc/FKy8dgGG/Whats-App-Image-2022-04-06-at-12-00-20-AM-3.jpg" width=33% height=auto>
-<img src="https://i.postimg.cc/qMc1GM2M/Whats-App-Image-2022-04-06-at-12-00-20-AM.jpg" width=33% height=auto>
-<img src="https://i.postimg.cc/4xLb8KyZ/Whats-App-Image-2022-04-06-at-12-00-20-AM-4.jpg" width=33% height=auto>
-  </div>
+<img src="https://i.postimg.cc/FKy8dgGG/Whats-App-Image-2022-04-06-at-12-00-20-AM-3.jpg" width=30% height=auto>
+<img src="https://i.postimg.cc/qMc1GM2M/Whats-App-Image-2022-04-06-at-12-00-20-AM.jpg" width=30% height=auto>
+<img src="https://i.postimg.cc/4xLb8KyZ/Whats-App-Image-2022-04-06-at-12-00-20-AM-4.jpg" width=30% height=auto>
+</div>
 <div>  
 <img src="https://i.postimg.cc/KY17CZ3T/Whats-App-Image-2022-04-06-at-12-00-20-AM-1.jpg" width=33% height=auto>
 <img src="https://i.postimg.cc/bv40hK1B/Whats-App-Image-2022-04-06-at-12-00-20-AM-2.jpg" width=33% height=auto>
