@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android_tic_tac_toe"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:5:5-26:19
+12        android:allowBackup="true"
+12-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] /home/shnartho/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:10:9-35
+19        android:theme="@style/AppTheme" >
+19-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:11:9-40
+20        <activity
+20-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:12:9-14:40
+21            android:name="com.example.android_tic_tac_toe.Score"
+21-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:13:13-34
+22            android:exported="false" />
+22-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:14:13-37
+23        <activity android:name="com.example.android_tic_tac_toe.TenBoard" />
+23-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:15:9-46
+23-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:15:19-43
+24        <activity android:name="com.example.android_tic_tac_toe.Choose" >
+24-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:16:9-23:20
+24-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:17:13-35
+25            <intent-filter>
+25-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:18:13-22:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:19:17-69
+26-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:19:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:21:17-77
+28-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:21:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.example.android_tic_tac_toe.MainActivity" />
+31-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:24:9-50
+31-->/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/AndroidManifest.xml:24:19-47
+32    </application>
+33
+34</manifest>

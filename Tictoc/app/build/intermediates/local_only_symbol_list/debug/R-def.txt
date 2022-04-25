@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable grid
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable o
+drawable x
+id imageView
+id imageView0
+id imageView1
+id imageView2
+id imageView3
+id imageView4
+id imageView5
+id imageView6
+id imageView7
+id imageView8
+id linearLayout
+id status
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Tictoc

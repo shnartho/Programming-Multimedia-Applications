@@ -1,0 +1,4 @@
+#Mon Apr 25 10:30:59 CEST 2022
+base.0=/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/build/intermediates/dex/debug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

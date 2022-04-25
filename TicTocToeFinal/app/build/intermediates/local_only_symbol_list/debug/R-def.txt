@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Button_1_1
+id Button_1_2
+id Button_1_3
+id Button_2_1
+id Button_2_2
+id Button_2_3
+id Button_3_1
+id Button_3_2
+id Button_3_3
+id button2
+id splash_dialog_Button
+id switch1
+id switch2
+id switch_play
+id textView
+id warnmessage
+id warnmessageMain
+layout activity_main
+layout activity_three_board
+layout dialogue
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.TicTocToeFinal
