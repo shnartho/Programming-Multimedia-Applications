@@ -19,7 +19,9 @@ Some android application project on Android Studio using Java. 👨‍💻
 <br><br>
 
 <h2>🔴 Tic Tac Toe 🎮 </h2>
-
+<h6>🔵 Single player and Multiplayer</h6>
+<h6>🔵 10*10 board</h6>
+<h6>🔵 Simple scoreboard</h6>
 <div style="float:left">
 <img src="https://i.postimg.cc/vZKqScj4/eafd445c-c72b-4718-bf1c-53007be7338c.jpg" width=30% height=auto>
 <img src="https://i.postimg.cc/2880kQNq/4f1ce581-80a2-4360-875d-5b99ef86a5ee.jpg" width=30% height=auto>
