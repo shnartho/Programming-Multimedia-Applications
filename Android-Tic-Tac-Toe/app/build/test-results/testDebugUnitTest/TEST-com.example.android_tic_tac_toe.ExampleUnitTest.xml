@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android_tic_tac_toe.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-26T09:50:21" hostname="shnartho" time="0.001">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="com.example.android_tic_tac_toe.ExampleUnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

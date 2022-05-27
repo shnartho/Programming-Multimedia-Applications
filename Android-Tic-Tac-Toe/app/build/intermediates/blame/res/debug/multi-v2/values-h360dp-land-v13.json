@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml",
+            "outputFile": "/home/shnartho/Erusmus Semester 2/Programming Multimedia Applications/Android-Tic-Tac-Toe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml",
             "map": [
                 {
                     "source": "/home/shnartho/.gradle/caches/transforms-2/files-2.1/c6c160beabe7f4f404dcf7d40c9cb143/material-1.1.0/res/values-h360dp-land-v13/values-h360dp-land-v13.xml",

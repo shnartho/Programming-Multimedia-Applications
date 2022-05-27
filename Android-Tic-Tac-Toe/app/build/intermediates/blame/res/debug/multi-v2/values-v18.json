@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "outputFile": "/home/shnartho/Erusmus Semester 2/Programming Multimedia Applications/Android-Tic-Tac-Toe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
             "map": [
                 {
                     "source": "/home/shnartho/.gradle/caches/transforms-2/files-2.1/f7fa931c10060cb31b4ececcd856b65d/appcompat-1.1.0/res/values-v18/values-v18.xml",

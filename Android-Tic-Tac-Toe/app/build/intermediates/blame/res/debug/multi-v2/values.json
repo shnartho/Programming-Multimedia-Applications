@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/shnartho/Erusmus Semester 2/Programming Multimedia Applications/Android-Tic-Tac-Toe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/shnartho/.gradle/caches/transforms-2/files-2.1/850a3c84da944cc872764513edcd7120/jetified-appcompat-resources-1.1.0/res/values/values.xml",
@@ -61,25 +61,6 @@
                     }
                 },
                 {
-                    "source": "/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "366"
-                    },
-                    "to": {
-                        "startLines": "849",
-                        "startColumns": "4",
-                        "startOffsets": "57538",
-                        "endLines": "854",
-                        "endColumns": "12",
-                        "endOffsets": "57850"
-                    }
-                },
-                {
                     "source": "/home/shnartho/.gradle/caches/transforms-2/files-2.1/f5f514aefab3bab424b829f9c5a8fd3e/jetified-viewpager2-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -96,23 +77,6 @@
                         "endLines": "7047",
                         "endColumns": "24",
                         "endOffsets": "442471"
-                    }
-                },
-                {
-                    "source": "/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "56",
-                        "endOffsets": "68"
-                    },
-                    "to": {
-                        "startLines": "781",
-                        "startColumns": "4",
-                        "startOffsets": "47897",
-                        "endColumns": "56",
-                        "endOffsets": "47949"
                     }
                 },
                 {
@@ -154,7 +118,26 @@
                     }
                 },
                 {
-                    "source": "/home/shnartho/Downloads/n/Android-Tic-Tac-Toe/app/src/main/res/values/colors.xml",
+                    "source": "/home/shnartho/Erusmus Semester 2/Programming Multimedia Applications/Android-Tic-Tac-Toe/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "849",
+                        "startColumns": "4",
+                        "startOffsets": "57538",
+                        "endLines": "854",
+                        "endColumns": "12",
+                        "endOffsets": "57850"
+                    }
+                },
+                {
+                    "source": "/home/shnartho/Erusmus Semester 2/Programming Multimedia Applications/Android-Tic-Tac-Toe/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",
@@ -223,6 +206,23 @@
                         "startOffsets": "42541,42581,42974,43113,43168,44052,44106,44158,44207,44268",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "42576,42623,43012,43163,43210,44101,44153,44202,44263,44313"
+                    }
+                },
+                {
+                    "source": "/home/shnartho/Erusmus Semester 2/Programming Multimedia Applications/Android-Tic-Tac-Toe/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "56",
+                        "endOffsets": "68"
+                    },
+                    "to": {
+                        "startLines": "781",
+                        "startColumns": "4",
+                        "startOffsets": "47897",
+                        "endColumns": "56",
+                        "endOffsets": "47949"
                     }
                 },
                 {
