@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#138F41"
+    tools:context=".MainActivity">
+
+    <GridView
+        android:id="@+id/grid"
+        android:layout_margin="8dp"
+        android:horizontalSpacing="10dp"
+        android:numColumns="2"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="10dp"
+        android:verticalSpacing="10dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/cameraButton"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:clickable="true"
+        android:src="@drawable/ic_camera"
+        android:onClick="onImageFromCameraClick"
+        app:tint="#CD9D9D"
+        app:backgroundTint="#0A3843"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/gallerButton"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="8dp"
+        android:clickable="true"
+        android:src="@drawable/ic_galler"
+        android:onClick="onImageFromGalleryClick"
+        app:tint="#A4CCB0"
+        app:backgroundTint="#A8540A"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/cameraButton"
+        />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
